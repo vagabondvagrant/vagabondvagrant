@@ -2,9 +2,10 @@
 
 I'm Kabeer, a front-end developer with a passion for crafting delightful user experiences.
 
-Let's dive into my world of code!
+Let's dive into my world of code! ð
 
-1. **React:** Bringing UIs to life.
-2. **TypeScript:** Adding predictability and scalability.
-3. **Tailwind CSS:** Crafting stylish, responsive designs.
+**React:** ð Bringing UIs to life.
+**TypeScript:** ð Adding predictability and scalability.
+**Tailwind CSS:** â¨ Crafting stylish, responsive designs.
 
+ð¥ Feel the excitement? Dive into the code and join me on this coding adventure! ð
